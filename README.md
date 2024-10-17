@@ -1,6 +1,6 @@
 # GitHubUserActivity
 
-Sample solution for the github-user-activity challenge from roadmap.sh.
+Sample solution for the github-user-activity challenge from [roadmap.sh.](https://roadmap.sh/projects/github-user-activity)
 
 ### How to start 
 
