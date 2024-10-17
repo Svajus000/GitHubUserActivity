@@ -1,0 +1,12 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "GitHub activity CLI tool",
+  "main": "github-activity.js",
+  "bin": {
+    "github-activity": "./github-activity.js"
+  },
+  "dependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
